@@ -4,7 +4,9 @@
 body{height: 100vh;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.nav-container{background-color: rgb(255, 189, 215); display: flex;justify-content: space-between;width: 100%;align-items: center; border-bottom: 8px solid rgb(251, 86, 149);height:150px;
+.nav-container{ display: flex;justify-content: space-between;width: 100%;align-items: center; border-bottom: 8px solid rgb(251, 86, 149);height:150px;background-image:
+  linear-gradient(to left, rgba(251, 86, 149, 0.52), rgba(255, 242, 247, 0.9)),
+  url('images/cover.jpg');
 }
 
 .logo{padding-left: 100px;
@@ -36,14 +38,14 @@ li{border: 1px solid white;height: 25px;padding: 5px;text-align: center;
 
 .all-checkbox{height: 50px;width: 50px;}
 
-.all-form{margin-top: ; width:1900px; height: 50px;  text-align: center;margin: 50px auto 30px auto; 
+.all-form{padding-bottom: ; width:1900px; height: 60px;  text-align: center;margin: 50px auto 30px auto; 
 }
 
 
 .forms{font-size: 25px; font-weight: bold; background-color:rgba(251, 86, 149); padding: 20px; 
 }
 
-.all-textbox{height:30px;width: 300px;}
+.all-textbox{height:30px;width: 300px;padding-top: 5px;}
 
 
 .all-field{width: 1800px;margin:auto;}
