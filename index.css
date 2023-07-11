@@ -40,7 +40,7 @@ li{border: 1px solid white;height: 25px;padding: 5px;text-align: center;
 }
 
 
-.forms{font-size: 25px; font-weight: bold; background-color: pink; padding: 20px; 
+.forms{font-size: 25px; font-weight: bold; background-color:rgba(251, 86, 149); padding: 20px; 
 }
 
 .all-textbox{height:30px;width: 300px;}
@@ -50,3 +50,5 @@ li{border: 1px solid white;height: 25px;padding: 5px;text-align: center;
 
 
 footer{background-color: red; height: 100px; margin-top: 50px;}
+
+button{margin: auto;width: 230px; background-color:rgb(251, 86, 149);display: flex;height: 70px;font-size: 50px;padding: 20px; font-weight: bold;border: none; align-items: center;box-shadow: 4px 4px black;}
