@@ -35,3 +35,12 @@ li{border: 1px solid white;height: 25px;padding: 5px;text-align: center;
 }
 
 .all-checkbox{height: 50px;width: 50px;}
+
+.all-form{margin-top: 50PX; width:2000px; height: 50px;  text-align: center;margin: 30px auto 30px auto; 
+}
+
+
+.forms{font-size: 25px; font-weight: bold; background-color: pink; padding: 20px; 
+}
+
+.all-textbox{height:30px;width: 300px;}
