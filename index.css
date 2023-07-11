@@ -17,6 +17,6 @@ body{height: 100vh;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida G
 li{border: 1px solid white;height: 25px;padding: 5px;text-align: center;
 }
 
-.cover-img{background-image: url(images/cover.jpg);height: 100vh}
+.cover-img{background-image: url(images/cover.jpg);height: 100%}
 
-.title{font-size: 150px;}
+.title{font-size: 150px;width: 650px;padding: 20px;background-image: linear-gradient( 90deg, rgba(251, 86, 149, 0.9), rgba(255, 255, 255, 0.0));color: white;text-shadow: 4px 4px #572424;}
