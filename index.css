@@ -36,7 +36,7 @@ li{border: 1px solid white;height: 25px;padding: 5px;text-align: center;
 
 .all-checkbox{height: 50px;width: 50px;}
 
-.all-form{margin-top: 50PX; width:2000px; height: 50px;  text-align: center;margin: 30px auto 30px auto; 
+.all-form{margin-top: ; width:1900px; height: 50px;  text-align: center;margin: 50px auto 30px auto; 
 }
 
 
@@ -44,3 +44,9 @@ li{border: 1px solid white;height: 25px;padding: 5px;text-align: center;
 }
 
 .all-textbox{height:30px;width: 300px;}
+
+
+.all-field{width: 1800px;margin:auto;}
+
+
+footer{background-color: red; height: 100px; margin-top: 50px;}
