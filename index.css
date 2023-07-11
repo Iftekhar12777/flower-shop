@@ -4,10 +4,10 @@
 body{height: 100vh;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.menu-container{background-color: rgb(255, 218, 225); display: flex;justify-content: space-between;width: 100%;align-items: center; border-bottom: 2px solid rgb(252, 38, 81);height:150px;}
+.menu-container{background-color: rgb(255, 218, 225); display: flex;justify-content: space-between;width: 100%;align-items: center; border-bottom: 2px solid rgb(252, 38, 81);height:150px;
+}
 
 .logo{padding-left: 100px;
-
 }
 
 .list{display: flex; list-style: none;justify-content: space-around;width: 50%; font-weight: bold;color: white;background-color: rgb(68, 67, 67); font-size: 20px;height: 60px; padding-top: 20px;
@@ -17,6 +17,8 @@ body{height: 100vh;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida G
 li{border: 1px solid white;height: 25px;padding: 5px;text-align: center;
 }
 
-.cover-img{background-image: url(images/cover.jpg);height: 100%}
+.cover-img{background-image: url(images/cover.jpg);height: 100%; margin-top: 40px;}
 
 .title{font-size: 150px;width: 650px;padding: 20px;background-image: linear-gradient( 90deg, rgba(251, 86, 149, 0.9), rgba(255, 255, 255, 0.0));color: white;text-shadow: 4px 4px #572424;}
+
+.title-2{text-align: center;font-size: 80px; background-color: rgba(251, 86, 149); width: 400px;margin: auto;margin-top: 40px;border-radius: 10px;box-shadow: 4px 4px rgb(75, 75, 75);}
